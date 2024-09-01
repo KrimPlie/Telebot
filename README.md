@@ -3,8 +3,11 @@
 
 Для работы необходимо установить локальный сервер Stable Diffusion:
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
 Для работы Stable Diffusion необходимо установить модель:
+
 https://civitai.com/models/7241/mix-pro-v4
+
 Запускается через webui-user.bat, в сам bat нужно дописать:
 ```
 set COMMANDLINE_ARGS=--xformers --autolaunch --listen --api
