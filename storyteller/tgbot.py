@@ -15,7 +15,7 @@ from collections import defaultdict
 # join - Присоединиться к комнате
 # leave - Покинуть комнату
 # group_chat - Управление групповым чатом
-bot = telebot.TeleBot('6781423114:AAGw_CbVilczpzOb3szz4FD-fBv3b_eIPdY')
+bot = telebot.TeleBot('Ваш токен')
 user_states = {}
 active_chats = {}
 teller = None
