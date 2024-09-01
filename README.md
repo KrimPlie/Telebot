@@ -1,7 +1,7 @@
 # Telebot
 Обязательно нужно подставить токен бота в файлы StoryTeller.py и tgbot.py
 
-Для работы необходимо установить локальный сервер Stable Diffusion:
+Для работы необходимо установить локальный сервер Stable Diffusion, строго следуя приложенной инструкции в репозитории:
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 Для работы Stable Diffusion необходимо установить модель:
