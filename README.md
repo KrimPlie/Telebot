@@ -40,6 +40,10 @@ call webui.bat
 ```
 После запуска держать комендную панель открытой, до завершения работы программы.
 
+Помещаем языковую модель в папку models не меняя её названия 
+
+Ссылка на языковую модель - https://drive.google.com/file/d/1gHZTK0rvmcDURxqVUGPfPdj85ZJ4EpXA/view?usp=sharing
+
 Запускаем файл tgbot.py 
 
 
