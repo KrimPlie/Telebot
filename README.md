@@ -1,8 +1,9 @@
 # Telebot
+GIT Должен быть установлен
 Обязательно нужно подставить токен бота в файлы StoryTeller.py и tgbot.py
 
 Для работы необходимо установить локальный сервер Stable Diffusion, строго следуя приложенной инструкции в репозитории:
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/serpotapov/stable-diffusion-portable
 
 Для работы Stable Diffusion необходимо установить модель:
 
@@ -32,4 +33,6 @@ set COMMANDLINE_ARGS=--xformers --autolaunch --listen --api
 git pull origin master
 call webui.bat
 ```
+После запуска держать комендную панель открытой, до завершения работы программы.
+
 
