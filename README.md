@@ -5,7 +5,9 @@ GIT Должен быть установлен
 
 Нужно создать venv и установить все зависимости
 
-Обязательно нужно подставить токен бота в tgbot.py 
+Обязательно нужно подставить токен бота в tgbot.py (6781423114:AAGw_CbVilczpzOb3szz4FD-fBv3b_eIPdY)
+
+Сам бот https://t.me/Story54Bot
 
 Для работы необходимо установить локальный сервер Stable Diffusion, строго следуя приложенной инструкции в репозитории:
 https://github.com/serpotapov/stable-diffusion-portable
