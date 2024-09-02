@@ -5,12 +5,11 @@ GIT Должен быть установлен
 
 Нужно создать venv и установить все зависимости
 
-Обязательно нужно подставить токен бота в tgbot.py (6781423114:AAGw_CbVilczpzOb3szz4FD-fBv3b_eIPdY)
+Обязательно нужно подставить токен бота в tgbot.py ()
 
 Сам бот https://t.me/Story54Bot
 
 Для работы необходимо установить локальный сервер Stable Diffusion, строго следуя приложенной инструкции в репозитории:
-https://github.com/serpotapov/stable-diffusion-portable
 
 Для работы Stable Diffusion необходимо установить модель:
 
@@ -18,7 +17,7 @@ https://civitai.com/models/7241/mix-pro-v4
 
 Запускается через webui-user.bat, в сам bat нужно дописать:
 ```
-set COMMANDLINE_ARGS=--xformers --autolaunch --listen --api
+set COMMANDLINE_ARGS=--xformers --autolaunch --listen
 ```
 Вид готового webui-user.bat:
 ```
@@ -44,7 +43,7 @@ call webui.bat
 
 Помещаем языковую модель в папку models не меняя её названия 
 
-Ссылка на языковую модель - https://drive.google.com/file/d/1gHZTK0rvmcDURxqVUGPfPdj85ZJ4EpXA/view?usp=sharing
+Ссылка на языковую модель -
 
 Запускаем файл tgbot.py 
 
